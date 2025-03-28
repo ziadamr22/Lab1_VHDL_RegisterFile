@@ -1,6 +1,6 @@
-# Register File Testbench
+# Register File 
 
-This repository contains a VHDL testbench for verifying a **Register File** module. The testbench simulates reading and writing operations in the register file.
+This repository contains  VHDL files for implementing Register Files. The testbench simulates reading and writing operations in the register file.
 
 ## Table of Contents
 - [Overview](#overview)
